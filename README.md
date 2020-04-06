@@ -7,6 +7,6 @@
 `vrCamera.eulerAngles.x >= toggleAngle && vrCamera.eulerAngles.x < 90.0f`
 </br></br>
 Како последен чекор го дизајнирав теренот во кој треба да се движи играчот. За оваа цел си помогнав со новоимпортирани `Assets`. На некои од нив додадов `Colliders` за да се постигне правилно движење на играчот (да може да застане на мостот и да не падне од страните - `Box Collider` & `Mesh Collider`, да не потоне под нивото на водата - `Mesh Collider`, да не оди низ камењата - `Mesh Collider`, да не се доближи до големото централно дрво - `Sphere Collider`).</br></br>
-Помош при израаботка: https://www.youtube.com/watch?v=ecYezSD4qPg </br></br>
+Помош при изработка: https://www.youtube.com/watch?v=ecYezSD4qPg </br></br>
 Кратка видео демонстрација како играчот се движи во околината: </br></br>
 [![VRhw1 - screen recording + live demo](https://i.ytimg.com/vi/qi6A0RBGAYU/hqdefault.jpg)](https://www.youtube.com/watch?v=qi6A0RBGAYU)
